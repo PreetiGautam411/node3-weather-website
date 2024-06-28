@@ -1,4 +1,4 @@
-console.log('Client side js is loaded');
+// console.log('Client side js is loaded');
 
 
 
